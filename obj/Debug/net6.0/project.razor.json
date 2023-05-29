@@ -18374,6 +18374,11 @@
   "RootNamespace": "Basics",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\ilker\\Desktop\\mvc\\Basics\\Views\\Site\\Index2.cshtml",
+      "TargetPath": "Views\\Site\\Index2.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\ilker\\Desktop\\mvc\\Basics\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
