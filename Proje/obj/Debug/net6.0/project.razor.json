@@ -18394,6 +18394,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Pc\\Desktop\\mvc\\Proje\\Views\\ToDo\\Index.cshtml",
+      "TargetPath": "Views\\ToDo\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Pc\\Desktop\\mvc\\Proje\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
