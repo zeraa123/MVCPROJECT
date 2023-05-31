@@ -18384,6 +18384,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Pc\\Desktop\\mvc\\Proje\\Views\\ToDo\\FeedBack.cshtml",
+      "TargetPath": "Views\\ToDo\\FeedBack.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Pc\\Desktop\\mvc\\Proje\\Views\\ToDo\\Index2.cshtml",
+      "TargetPath": "Views\\ToDo\\Index2.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Pc\\Desktop\\mvc\\Proje\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -18391,11 +18401,6 @@
     {
       "FilePath": "c:\\Users\\Pc\\Desktop\\mvc\\Proje\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Pc\\Desktop\\mvc\\Proje\\Views\\ToDo\\Index.cshtml",
-      "TargetPath": "Views\\ToDo\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
